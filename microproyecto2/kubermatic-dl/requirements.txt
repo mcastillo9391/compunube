@@ -1,0 +1,7 @@
+flask
+requests
+Pillow
+matplotlib
+mxnet==1.9.1
+gluoncv==0.10.5
+opencv-python-headless==4.5.5.64
